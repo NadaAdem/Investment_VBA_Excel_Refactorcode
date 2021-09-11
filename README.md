@@ -18,7 +18,7 @@
  ![This is an image](https://github.com/NadaAdem/stock-analysis/blob/main/Resources/Refactor_Code_2018.png)
 
 
-## Summary
+## Summary : Advantages or Disadvantages of refactoring code
 ### Advantages  of refactoring code
 - Refactoring code helps in executing the program faster
 - Refactoring code use  less memory 
