@@ -29,14 +29,19 @@
 ### Disadvantages of refactoring code
 
 - Change original  code  to refactoring code always includes renaming variables and methods, changing method signatures, and moving things around. Trying to make all these changes by hand can easily lead to disaster.
-- Time Consuming : it will take to long time  complete the process and it is hard to overwrite access  code.
+- Time Consuming : it will take to long time for complete the process to be ready and it is hard to overwrite access  code.
 
 ### How do these pros and cons apply to refactoring the original VBA script?
 
-- Pros: -  Refactoring code will be better organized after refactoring and easier to understand . it won't be any more functional than it was before the changes. 
- Refactoring is just to change the structure of the code base, not its behavior.
+### Pros: 
+- -  Refactoring code is executing the program faster than before and also less memory .
+- it is help to be organized  and easier to understand . 
+- there aren't  any more functional than it was before the changes. 
+- Refactoring is just to change the structure of the code base, not its behavior.
 
-- Cons: - Any time code changes, there is a potential to introduce a bug.
+### Cons:
+- Any time code changes, there is a potential to introduce a bug.
+-  Long time for completing progam .
 
 
 
