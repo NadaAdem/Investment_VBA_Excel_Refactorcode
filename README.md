@@ -18,6 +18,9 @@
  ![This is an image](https://github.com/NadaAdem/stock-analysis/blob/main/Resources/Refactor_Code_2018.png)
 
 
+
+
+
 ## Summary : Advantages or Disadvantages of Refactoring Code
 
 ### Advantages  of refactoring code
