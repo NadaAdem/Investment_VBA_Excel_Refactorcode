@@ -44,7 +44,7 @@
 
 ### Cons:
 - Any time code changes, there is a potential to introduce a bug.
--  Long time for completing progam .
+-  Long time for completing  program .
 
 
 
