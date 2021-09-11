@@ -1,5 +1,5 @@
 # Stock Analysis with VBA + Excel 
-## Overview :VBA stock Analysis Project 
+## Overview :VBA Stock Analysis Project 
 
 ### Purpose 
  Steve wants to expand dataset to include the entire stock market over few years. The pervious code may not work for thousand of stock and it may take long time to execute.
