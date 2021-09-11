@@ -12,8 +12,10 @@
 ![This is an image](https://github.com/NadaAdem/stock-analysis/blob/main/Resources/Original_Code_2017.png)
  ### Timestamp of Original code for 2018
 ![This is an image](https://github.com/NadaAdem/stock-analysis/blob/main/Resources/Original_Code_2018.png)
- 
- 
+ ### Timestamp of Refactor code for 2017
+ ![This is an image](https://github.com/NadaAdem/stock-analysis/blob/main/Resources/Refactor_Code_2017.png)
+ ### Timestamp of Refactor code for 2018
+ ![This is an image](https://github.com/NadaAdem/stock-analysis/blob/main/Resources/Refactor_Code_2018.png)
 
 
 
