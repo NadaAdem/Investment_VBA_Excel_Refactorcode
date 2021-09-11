@@ -28,7 +28,7 @@
 ### Disadvantages of refactoring code
 
 - Change original  code  to refactoring code always includes renaming variables and methods, changing method signatures, and moving things around. Trying to make all these changes by hand can easily lead to disaster.
--Time Consuming : it will take to long time  complete the process and it is hard to overwrite access  code.
+- Time Consuming : it will take to long time  complete the process and it is hard to overwrite access  code.
 
 ### How do these pros and cons apply to refactoring the original VBA script?
 
