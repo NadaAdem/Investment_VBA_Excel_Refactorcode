@@ -34,7 +34,7 @@
 ### How do these pros and cons apply to refactoring the original VBA script?
 
 ### Pros: 
-- -  Refactoring code is executing the program faster than before and also less memory .
+- Refactoring code is executing the program faster than before and also less memory .
 - it is help to be organized  and easier to understand . 
 - there aren't  any more functional than it was before the changes. 
 - Refactoring is just to change the structure of the code base, not its behavior.
